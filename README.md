@@ -20,17 +20,14 @@ Features:
 How to use:
 
 Add to HEAD
-
-<pre><code>
-	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-   <link rel="stylesheet" href="radialmenu.css"/>
-   <script src="radialmenu.js"></script>
-</pre></code>
-
+```
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<link rel="stylesheet" href="radialmenu.css"/>
+<script src="radialmenu.js"></script>
+```
 Add to BODY (add/remove as many li s as you would like)
-
-<pre><code>
-	<div class='radial'>
+```
+    <div class='radial'>
       <ul>
         <li><a href='http://news.ycombinator.com'>HN</a></li>
         <li><a href='http://google.com'>Google</a></li>  
@@ -40,19 +37,7 @@ Add to BODY (add/remove as many li s as you would like)
         <li><a href='http://index.html'>Index</a></li> 
       </ul>
     </div>
-</pre></code>
-
-<div class='radial'>
-      <ul>
-        <li><a href='http://news.ycombinator.com'>HN</a></li>
-        <li><a href='http://google.com'>Google</a></li>  
-        <li><a href='http://reddit.com'>Reddit</a></li>
-        <li><a href='http://facebook.com'>Facebook</a></li> 
-        <li><a href='http://localhost'>Localhost</a></li> 
-        <li><a href='http://index.html'>Index</a></li> 
-      </ul>
-    </div>
-
+```
 License: 
 
 The MIT License (MIT)
