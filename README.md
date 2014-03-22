@@ -11,6 +11,7 @@ Features:
 - No Canvas, just CSS
 - Supports any amount of elements
 - change the radius easily (change value of var c)
+- alt right click to get usual right click context menu
 
 ###Upcoming usage: Chrome Extension for navigating to your most used sites, fast###
 
