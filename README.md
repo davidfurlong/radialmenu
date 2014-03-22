@@ -21,7 +21,7 @@ How to use:
 
 Add to HEAD
 ```
-<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
 <link rel="stylesheet" href="radialmenu.css"/>
 <script src="radialmenu.js"></script>
 ```
