@@ -3,10 +3,6 @@ radialmenu.js
 
 Right Click Radial Menus in JQuery
 
-##Coming: Chrome Extension for your favorite sites, configurable##
-
-##Current: Add to your website as a faster and omnipresent navigation.##
-
 Demo:
 
 http://davidfurlong.github.io/radialmenu.js/
@@ -16,3 +12,6 @@ Features:
 - Supports any amount of elements
 - change the radius easily (change value of var c)
 
+###Upcoming usage: Chrome Extension for navigating to your most used sites, fast###
+
+###Current usage: Add a custom version of radialmenu.js to your website as a better nav ###
