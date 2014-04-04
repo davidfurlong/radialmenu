@@ -5,7 +5,7 @@ Right Click Radial Menus in JQuery
 
 Demo:
 
-http://davidfurlong.github.io/radialmenu.js/
+http://davidfurlong.github.io/radialmenu
 
 Features:
 - No Canvas, just CSS
