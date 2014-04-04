@@ -126,7 +126,7 @@ $(window).load(function(){
 	{
 	    return new Array( num + 1 ).join( this );
 	}
-
+	$('.radialmenu').remove();
 	$('body').append('<div class="radialmenu">\
 	      <div class="sectors"></div>\
 	      <div class="sectorlabels"></div>\
