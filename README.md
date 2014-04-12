@@ -13,11 +13,9 @@ Features:
 - change the radius easily (change value of var c)
 - alt right click to get usual right click context menu
 
-###Current: Add a custom version of radialmenu.js to your website as a better nav ###
+Check out the chrome extension in the repository, its fully functioning but you need to manually configure it!
 
-###Next: Chrome Extension for navigating to your most used sites, fast###
-
-How to use:
+How to use on your website:
 
 Add to HEAD
 ```
